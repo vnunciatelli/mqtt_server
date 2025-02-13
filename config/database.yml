@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: mttt_server_development
+  pool: 5
+  username: your_username
+  password: your_password
